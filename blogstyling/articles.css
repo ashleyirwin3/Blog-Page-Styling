@@ -1,4 +1,11 @@
 
 #foo {
-	background-color: blue;
+	background-color: lightblue;
+	font-family: "Open Sans", serif;
+	font-size: 10px;
+	line-height: 1em;
+	padding-left: 10%;
+	padding-right: 10%;
+	border-radius: 10px;
 }
+
