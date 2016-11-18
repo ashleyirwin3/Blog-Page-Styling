@@ -9,3 +9,16 @@
 	border-radius: 10px;
 }
 
+#foo2 {
+	background-color: lightgray;
+	font-family: "Abel", serif;
+	font-size: 20px;
+	line-height: 2em;
+	padding-left: 20%;
+	padding-right: 20%;
+	border-radius: 30px;
+}
+
+#foo3 {
+	
+}
