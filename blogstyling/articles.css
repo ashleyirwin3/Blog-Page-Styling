@@ -1,4 +1,24 @@
 
 #foo {
-	background-color: blue;
+	background-color: lightblue;
+	font-family: "Open Sans", serif;
+	font-size: 10px;
+	line-height: 1em;
+	padding-left: 10%;
+	padding-right: 10%;
+	border-radius: 10px;
+}
+
+#foo2 {
+	background-color: lightgray;
+	font-family: "Abel", serif;
+	font-size: 20px;
+	line-height: 2em;
+	padding-left: 20%;
+	padding-right: 20%;
+	border-radius: 30px;
+}
+
+#foo3 {
+	
 }
