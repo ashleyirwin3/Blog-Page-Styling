@@ -1,5 +1,5 @@
 
-#foo {
+.foo {
 	background-color: lightblue;
 	font-family: "Open Sans", serif;
 	font-size: 10px;
@@ -9,7 +9,7 @@
 	border-radius: 40px;
 }
 
-#foo2 {
+.foo2 {
 	background-color: lightgray;
 	font-family: "Abel", serif;
 	font-size: 20px;
@@ -19,7 +19,7 @@
 	border-radius: 30px;
 }
 
-#foo3 {
+.foo3 {
 	background-color: lightgreen;
 	font-family: "Roboto", serif;
 	font-size: 8px;
@@ -29,7 +29,7 @@
 	border-radius: 10%;
 }
 
-#foo4 {
+.foo4 {
 	background-color: lightpink;
 	font-family: "Oswald", serif;
 	font-size: 20px;
@@ -40,7 +40,7 @@
 
 }
 
-#foo5 {
+.foo5 {
 	background-color: lightyellow;
 	font-family: "Raleway", serif;
 	font-size: 12px;
