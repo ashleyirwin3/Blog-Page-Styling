@@ -20,5 +20,17 @@
 }
 
 #foo3 {
-	
+	background-color: lightgreen;
+	font-family: "Roboto", serif;
+	font-size: 8px;
+	line-height: 5em;
+	padding-left: 5%;
+	padding-right: 15%;
+	border-radius: 40%;
+}
+
+#foo4 {
+	background-color: lightpink;
+	font-family: "Oswald", serif;
+	font-size: 20px;
 }
